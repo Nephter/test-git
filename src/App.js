@@ -1,4 +1,5 @@
-import React from "react"; 3.4K
+/* eslint-disable no-unused-expressions */
+import React from "react"; 3.4
 
 function App() {
     return (
